@@ -1,0 +1,4 @@
+classified_images/*
+diagnostic_plots/*
+ground_truth_comparison_data/*
+models/*
