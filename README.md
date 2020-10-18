@@ -7,3 +7,5 @@
 [Part 2: Unsupervised Landcover Classification via NMF](INET4710_FinalProject_Part2_Unsupervised_Landcover_Classification_via_NMF.ipynb)
 
 [Part 3: Assessing Landcover Classification Performance](INET4710_FinalProject_Part3_Assessing_Landcover_Classification_Performance_and_Conclusion.ipynb)
+
+[Appendix: Helper Functions](INET4710_FinalProject_Helper_Functions.ipynb)
